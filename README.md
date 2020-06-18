@@ -1,2 +1,2 @@
 # Python-Practice-Codes
-Various pythons codes for practice
+The problem statements are on the top of the files.
